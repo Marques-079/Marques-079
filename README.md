@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm Marcus</h1>
-<h3 align="center">A student trying to figure out how AI works</h3>
-
 <h2 align="left">👋 My name is Marcus and I'm a Student, from New Zealand 🇳🇿</h2>
 
 ###
@@ -11,7 +8,22 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">👋 Hey, I'm Marcus!<br>🤖 AI & ML enthusiast | 💻 Software developer | 📊 Data-driven thinker<br>Passionate about building smart systems, exploring new tech, and turning ideas into reality. Let’s connect and create something awesome! 🚀</p>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/marcusochan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=marce4523&logo=discord&label=Discord&color=808080&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:marcus.o.chan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/marcus-chan-019136338" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -37,22 +49,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/marcusochan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=marce4523&logo=discord&label=Discord&color=808080&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:marcus.o.chan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/marcus-chan-019136338" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img align="left" height="200" src="https://ih1.redbubble.net/image.954010553.8495/st,small,507x507-pad,600x600,f8f8f8.jpg"  />
 
 ###
 
-<img align="right" height="150" src="https://ih1.redbubble.net/image.954010553.8495/st,small,507x507-pad,600x600,f8f8f8.jpg"  />
+<h5 align="center">╔════════════════════════════════════════╗<br>║ 🎵  Now Playing:                      ║<br>║    » Let It Happen - Tame Impala «     ║<br>║                                        ║<br>║   5:30 ────〇── 7:47                    ║<br>║       ⇄   ◃◃   ⅠⅠ   ▹▹   ↻              ║<br>╚════════════════════════════════════════╝</h5>
 
 ###
-
