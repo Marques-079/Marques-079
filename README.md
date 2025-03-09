@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🤖 AI & ML enthusiast | 💻 Software developer | 📊 Data-driven thinker<br>Passionate about building smart systems, exploring new tech, and turning ideas into reality. <br>Let’s connect and create something awesome! 🚀</p>
+<p align="left">🤖 AI & ML enthusiast | 💻 Software developer | 📊 Data-driven thinker<br>Passionate about building smart systems, exploring new tech, and turning ideas into reality. <br>Let’s connect and create something awesome! (btw if you recognise the album below - you're a G)</p>
 
 ###
 
