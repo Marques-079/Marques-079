@@ -51,28 +51,41 @@
 
 ## 🌟 Latest Projects
 
-<table>
+<table style="width: 90%; margin: 0 auto;">
   <tr>
-    <td align="center" width="50%">
+    <!-- Project One -->
+    <td align="center" width="33%">
       <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers">
-        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/c1724f0febd7f2a51ecc047d9d9c8a004c0e5f83/Images/Screenshot%202025-05-031.jpg"
-             alt="Project One" width="200"/>
+        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%20-githubmmain1.png"
+             alt="AI plays Subway Surfers" width="200"/>
       </a>
       <br />
-      <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>Project One</strong></a>
-      <br /><sub>A snappy one-line description of Project One.</sub>
+      <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>AI plays Subway Surfers</strong></a>
+      <br /><sub>An agent that learns to play Subway Surfers via CNN + Transformer combo</sub>
     </td>
-    <td align="center" width="50%">
+    <!--Project Two -->
+    <td align="center" width="33%">
       <a href="https://github.com/Marques-079/dynamictransformerV2">
-        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/c1724f0febd7f2a51ecc047d9d9c8a004c0e5f83/Images/Screenshot%202025-05-031.jpg"
-             alt="Project Two" width="200"/>
+        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-06.png"
+             alt="Dynamic Transformer V2" width="200"/>
       </a>
       <br />
-      <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Project Two</strong></a>
-      <br /><sub>A snappy one-line description of Project Two.</sub>
+      <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Dynamic Transformer V2</strong></a>
+      <br /><sub>A transformer framework for time-series stock prediction</sub>
+    </td>
+    <!-- Project Three -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
+        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-0.png"
+             alt="Project Three" width="200"/>
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports"><strong>Project Three</strong></a>
+      <br /><sub>Advent of Code 2024 - No imports</sub>
     </td>
   </tr>
 </table>
+
 
 
 <br clear="both">
