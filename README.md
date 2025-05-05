@@ -64,7 +64,7 @@
       </a>
       <br />
       <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>AI plays Subway Surfers</strong></a>
-      <br /><sub>🚧 CNN + Transformer + PPO wombo combo 🚧</sub>
+      <br /><sub>🚧 CNN + Transformer + PPO wombo combo </sub>
     </td>
     <!-- Project Two -->
     <td align="center" width="33%">
@@ -77,7 +77,7 @@
       </a>
       <br />
       <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Dynamic Transformer V2</strong></a>
-      <br /><sub>A transformer framework for time-series stock prediction</sub>
+      <br /><sub>A transformer for time-series stock prediction</sub>
     </td>
     <!-- Project Three -->
     <td align="center" width="33%">
