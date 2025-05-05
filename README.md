@@ -49,6 +49,32 @@
 
 ###
 
+## 🌟 Latest Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers">
+        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/c1724f0febd7f2a51ecc047d9d9c8a004c0e5f83/Images/Screenshot%202025-05-031.jpg"
+             alt="Project One" width="200"/>
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>Project One</strong></a>
+      <br /><sub>A snappy one-line description of Project One.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Marques-079/dynamictransformerV2">
+        <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/blob/c1724f0febd7f2a51ecc047d9d9c8a004c0e5f83/Images/Screenshot%202025-05-031.jpg"
+             alt="Project Two" width="200"/>
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Project Two</strong></a>
+      <br /><sub>A snappy one-line description of Project Two.</sub>
+    </td>
+  </tr>
+</table>
+
+
 <br clear="both">
 
 <img align="left" height="250" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"  />
