@@ -112,13 +112,28 @@
   </table>
 </div>
 
-<!-- Album + Now Playing centered -->
+<!-- Album + Now Playing side-by-side -->
 <div align="center">
-  <img height="250" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png" alt="Currents" />
-  <h5 align="center">╔════════════════════════════════════════╗<br>
-  ║ 🎵  Now Playing:                      ║<br>
-  ║    » Let It Happen - Tame Impala «    ║<br>
-  ║   5:30 ────〇── 7:47                   ║<br>
-  ║       ⇄   ◃◃   ⅠⅠ   ▹▹   ↻             ║<br>
-  ╚════════════════════════════════════════╝</h5>
+  <table align="center" width="80%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+    <tr>
+      <!-- Left: album art -->
+      <td align="center" valign="middle" width="40%">
+        <img height="250"
+             src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
+             alt="Tame Impala — Currents" />
+      </td>
+      <!-- Right: now playing box -->
+      <td align="center" valign="middle" width="60%">
+        <pre style="display:inline-block; margin:0; padding:6px 10px; font-size:16px; line-height:1.25; font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace; white-space:pre;">
+╔════════════════════════════════════════╗
+║ 🎵  Now Playing:                      ║
+║ » Let It Happen - Tame Impala «       ║
+║ 5:30 ────〇── 7:47                     ║
+║   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻                 ║
+╚════════════════════════════════════════╝
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
+
