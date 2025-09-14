@@ -138,16 +138,15 @@
       line-height:1.25;
       font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;
       white-space:pre;
-    ">
-      align="center">╔════════════════════════════════════════╗<br>
-      ║ 🎵 Now Playing: ║<br>
-      ║ » Let It Happen - Tame Impala « ║<br>
-      ║ ║<br>║ 5:30 ────〇── 7:47 ║<br>
-      ║ ⇄ ◃◃ ⅠⅠ ▹▹ ↻ ║<br>
-      ╚════════════════════════════════════════╝</h5>
-    </pre>
+    ">╔════════════════════════════════════════╗
+║ 🎵  Now Playing:                      ║
+║ » Let It Happen - Tame Impala «       ║
+║ 5:30 ────〇── 7:47                     ║
+║   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻                 ║
+╚════════════════════════════════════════╝</pre>
   </div>
 
 </div>
+
 
 
