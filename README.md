@@ -81,18 +81,17 @@
     </td>
     <!-- Project Three -->
     <td align="center" width="33%">
-      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
+      <a href="https://github.com/Marques-079/dynamictransformerV2">
         <img
-          src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-0.png"
-          alt="Advent of Code 2024 – No imports"
+          src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-06.png"
+          alt="Dynamic Transformer V2"
           style="width:200px; height:200px; object-fit:contain;"
         />
       </a>
       <br />
-      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports"><strong>Advent of Code 2024</strong></a>
-      <br /><sub>No-import solutions to AoC puzzles</sub>
+      <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Dynamic Transformer V2</strong></a>
+      <br /><sub>A transformer for time-series stock prediction</sub>
     </td>
-  </tr>
 
   <!-- ROW 2 (NEW) -->
   <tr>
@@ -123,16 +122,16 @@
     </td>
     <!-- Project Six -->
     <td align="center" width="33%">
-      <a href="https://github.com/Marques-079/REPO-SIX">
+      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
         <img
-          src="https://raw.githubusercontent.com/Marques-079/REPO-SIX/branch/path/to/thumbnail.png"
-          alt="Project Six"
+          src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-0.png"
+          alt="Advent of Code 2024 – No imports"
           style="width:200px; height:200px; object-fit:contain;"
         />
       </a>
       <br />
-      <a href="https://github.com/Marques-079/REPO-SIX"><strong>Project Six</strong></a>
-      <br /><sub>Short one-liner</sub>
+      <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports"><strong>Advent of Code 2024</strong></a>
+      <br /><sub>No-import solutions to AoC puzzles</sub>
     </td>
   </tr>
 </tbody>
