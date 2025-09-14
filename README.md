@@ -66,7 +66,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/REPO-FIVE"><strong>Project Five</strong></a>
-          <br /><sub>Short one-liner</sub>
+          <br /><sub>Reserved for something special</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/dynamictransformerV2">
@@ -87,7 +87,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/more-attention"><strong>Project Four</strong></a>
-          <br /><sub>Short one-liner</sub>
+          <br /><sub>Fully Automated Youtube Channel</sub>
         </td> 
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/2025-algothon">
@@ -96,7 +96,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/2025-algothon"><strong>Project Five</strong></a>
-          <br /><sub>Short one-liner</sub>
+          <br /><sub>More graphs than I have braincells</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
