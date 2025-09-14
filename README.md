@@ -112,16 +112,18 @@
   </table>
 </div>
 
-<div align="center"
-     style="display:flex;justify-content:center;align-items:center;gap:12px;flex-wrap:wrap;margin:12px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
-       height="250"
-       alt="Tame Impala — Currents"
-       style="display:block;margin:0;border:0;box-shadow:none;" />
 
-  <h5 style="margin:0;
-             font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;
-             line-height:1.25; font-weight:600; text-align:center;">
+<!-- Album + Now Playing (side-by-side, centered, no bg) -->
+<p align="center" style="margin:12px 0;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
+    alt="Tame Impala — Currents"
+    height="250"
+    style="vertical-align:middle; margin-right:10px; border:0; box-shadow:none;" />
+
+  <span style="display:inline-block; vertical-align:middle; margin-left:10px;
+               font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;
+               line-height:1.25; font-weight:600; text-align:center;">
     ╔════════════════════════════════════════╗<br>
     ║ 🎵 Now Playing:                        ║<br>
     ║ » Let It Happen - Tame Impala «        ║<br>
@@ -129,5 +131,6 @@
     ║ 5:30 ────〇── 7:47                     ║<br>
     ║   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻                 ║<br>
     ╚════════════════════════════════════════╝
-  </h5>
-</div>
+  </span>
+</p>
+
