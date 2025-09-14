@@ -113,24 +113,6 @@
 </div>
 
 
-<!-- Album + Now Playing (side-by-side, centered, no bg) -->
-<p align="center" style="margin:12px 0;">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
-    alt="Tame Impala — Currents"
-    height="250"
-    style="vertical-align:middle; margin-right:10px; border:0; box-shadow:none;" />
+<br clear="both"> <img align="center" height="250" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png" />
 
-  <span style="display:inline-block; vertical-align:middle; margin-left:10px;
-               font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;
-               line-height:1.25; font-weight:600; text-align:center;">
-    ╔════════════════════════════════════════╗<br>
-    ║ 🎵 Now Playing:                        ║<br>
-    ║ » Let It Happen - Tame Impala «        ║<br>
-    ║                                        ║<br>
-    ║ 5:30 ────〇── 7:47                     ║<br>
-    ║   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻                 ║<br>
-    ╚════════════════════════════════════════╝
-  </span>
-</p>
-
+<h5 align="center">╔════════════════════════════════════════╗<br>║ 🎵 Now Playing: ║<br>║ » Let It Happen - Tame Impala « ║<br>║ ║<br>║ 5:30 ────〇── 7:47 ║<br>║ ⇄ ◃◃ ⅠⅠ ▹▹ ↻ ║<br>╚════════════════════════════════════════╝</h5>
