@@ -115,6 +115,6 @@
 
 <br clear="both"> <img align="left" height="250" src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png" />
 
-<h1 align="center">╔════════════════════════════════════════╗<br>║ 🎵 Now Playing: ║<br>║ » Let It Happen - Tame Impala « ║<br>║ ║<br>║ 5:30 ────〇── 7:47 ║<br>║ ⇄ ◃◃ ⅠⅠ ▹▹ ↻ ║<br>╚════════════════════════════════════════╝</h1>
+<h3 align="center">╔════════════════════════════════════════╗<br>║ 🎵 Now Playing: ║<br>║ » Let It Happen - Tame Impala « ║<br>║ ║<br>║ 5:30 ────〇── 7:47 ║<br>║ ⇄ ◃◃ ⅠⅠ ▹▹ ↻ ║<br>╚════════════════════════════════════════╝</h3>
 
 
