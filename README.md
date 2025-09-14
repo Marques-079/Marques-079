@@ -93,6 +93,49 @@
       <br /><sub>No-import solutions to AoC puzzles</sub>
     </td>
   </tr>
+
+  <!-- ROW 2 (NEW) -->
+  <tr>
+    <!-- Project Four -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Marques-079/REPO-FOUR">
+        <img
+          src="https://raw.githubusercontent.com/Marques-079/REPO-FOUR/branch/path/to/thumbnail.png"
+          alt="Project Four"
+          style="width:200px; height:200px; object-fit:contain;"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/REPO-FOUR"><strong>Project Four</strong></a>
+      <br /><sub>Short one-liner</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Marques-079/REPO-FIVE">
+        <img
+          src="https://raw.githubusercontent.com/Marques-079/REPO-FIVE/branch/path/to/thumbnail.png"
+          alt="Project Five"
+          style="width:200px; height:200px; object-fit:contain;"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/REPO-FIVE"><strong>Project Five</strong></a>
+      <br /><sub>Short one-liner</sub>
+    </td>
+    <!-- Project Six -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Marques-079/REPO-SIX">
+        <img
+          src="https://raw.githubusercontent.com/Marques-079/REPO-SIX/branch/path/to/thumbnail.png"
+          alt="Project Six"
+          style="width:200px; height:200px; object-fit:contain;"
+        />
+      </a>
+      <br />
+      <a href="https://github.com/Marques-079/REPO-SIX"><strong>Project Six</strong></a>
+      <br /><sub>Short one-liner</sub>
+    </td>
+  </tr>
+</tbody>
 </table>
 
 
