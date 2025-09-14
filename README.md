@@ -112,28 +112,42 @@
   </table>
 </div>
 
-<!-- Album + Now Playing side-by-side -->
-<div align="center">
-  <table align="center" width="80%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
-    <tr>
-      <!-- Left: album art -->
-      <td align="center" valign="middle" width="40%">
-        <img height="250"
-             src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
-             alt="Tame Impala — Currents" />
-      </td>
-      <!-- Right: now playing box -->
-      <td align="center" valign="middle" width="60%">
-        <pre style="display:inline-block; margin:0; padding:6px 10px; font-size:16px; line-height:1.25; font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace; white-space:pre;">
-╔════════════════════════════════════════╗
-║ 🎵  Now Playing:                      ║
-║ » Let It Happen - Tame Impala «       ║
-║ 5:30 ────〇── 7:47                     ║
-║   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻                 ║
-╚════════════════════════════════════════╝
-        </pre>
-      </td>
-    </tr>
-  </table>
+<!-- Album + Now Playing (side-by-side, no table, seamless bg) -->
+<div align="center"
+     style="display:flex; justify-content:center; align-items:center; gap:28px; flex-wrap:wrap;">
+
+  <!-- Album art -->
+  <div style="flex:0 0 auto;">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
+      alt="Tame Impala — Currents"
+      height="250"
+      style="display:block; margin:0; border:0; box-shadow:none;"
+    />
+  </div>
+
+  <!-- Now Playing box (ASCII) -->
+  <div style="flex:0 1 520px; text-align:center;">
+    <pre style="
+      margin:0;
+      padding:0;
+      background:transparent;
+      border:none;
+      box-shadow:none;
+      font-size:16px;
+      line-height:1.25;
+      font-family: SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;
+      white-space:pre;
+    ">
+      align="center">╔════════════════════════════════════════╗<br>
+      ║ 🎵 Now Playing: ║<br>
+      ║ » Let It Happen - Tame Impala « ║<br>
+      ║ ║<br>║ 5:30 ────〇── 7:47 ║<br>
+      ║ ⇄ ◃◃ ⅠⅠ ▹▹ ↻ ║<br>
+      ╚════════════════════════════════════════╝</h5>
+    </pre>
+  </div>
+
 </div>
+
 
