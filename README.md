@@ -68,16 +68,16 @@
     </td>
     <!-- Project Two -->
     <td align="center" width="33%">
-      <a href="https://github.com/Marques-079/dynamictransformerV2">
+      <a href="https://github.com/Marques-079/REPO-FIVE">
         <img
-          src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-06.png"
-          alt="Dynamic Transformer V2"
+          src="https://raw.githubusercontent.com/Marques-079/REPO-FIVE/branch/path/to/thumbnail.png"
+          alt="Project Five"
           style="width:200px; height:200px; object-fit:contain;"
         />
       </a>
       <br />
-      <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Dynamic Transformer V2</strong></a>
-      <br /><sub>A transformer for time-series stock prediction</sub>
+      <a href="https://github.com/Marques-079/REPO-FIVE"><strong>Project Five</strong></a>
+      <br /><sub>Short one-liner</sub>
     </td>
     <!-- Project Three -->
     <td align="center" width="33%">
