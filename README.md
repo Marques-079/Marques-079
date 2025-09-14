@@ -82,20 +82,20 @@
       <tr>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/more-attention">
-            <img src="https://raw.githubusercontent.com/Marques-079/REPO-FOUR/branch/path/to/thumbnail.png"
+            <img src="https://github.com/Marques-079/Marques-079/blob/e53b16d8d3f22b5deb7c4e90f704597a41f7edcf/github_automaiton.jpeg"
                  alt="Project Four" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/more-attention"><strong>Project Four</strong></a>
-          <br /><sub>Fully Automated Youtube Channel</sub>
+          <a href="https://github.com/Marques-079/more-attention"><strong>Fully Automated Youtube Channel</strong></a>
+          <br /><sub>Prompt to video in one</sub>
         </td> 
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/2025-algothon">
-            <img src="https://raw.githubusercontent.com/Marques-079/REPO-FIVE/branch/path/to/thumbnail.png"
+            <img src="https://github.com/Marques-079/Marques-079/blob/e53b16d8d3f22b5deb7c4e90f704597a41f7edcf/963df710823a4759331d95545f2977d9.jpg"
                  alt="Project Five" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/2025-algothon"><strong>Project Five</strong></a>
+          <a href="https://github.com/Marques-079/2025-algothon"><strong>Algothon 2025</strong></a>
           <br /><sub>More graphs than I have braincells</sub>
         </td>
         <td align="center" width="33%">
