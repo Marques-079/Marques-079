@@ -81,21 +81,21 @@
       <!-- ROW 2 -->
       <tr>
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/REPO-FOUR">
+          <a href="https://github.com/Marques-079/more-attention">
             <img src="https://raw.githubusercontent.com/Marques-079/REPO-FOUR/branch/path/to/thumbnail.png"
                  alt="Project Four" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/REPO-FOUR"><strong>Project Four</strong></a>
+          <a href="https://github.com/Marques-079/more-attention"><strong>Project Four</strong></a>
           <br /><sub>Short one-liner</sub>
-        </td>
+        </td> 
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/REPO-FIVE">
+          <a href="https://github.com/Marques-079/2025-algothon">
             <img src="https://raw.githubusercontent.com/Marques-079/REPO-FIVE/branch/path/to/thumbnail.png"
                  alt="Project Five" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/REPO-FIVE"><strong>Project Five</strong></a>
+          <a href="https://github.com/Marques-079/2025-algothon"><strong>Project Five</strong></a>
           <br /><sub>Short one-liner</sub>
         </td>
         <td align="center" width="33%">
