@@ -57,7 +57,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>AI plays Subway Surfers</strong></a>
-          <br /><sub>🚧 CNN + Transformer + PPO wombo combo</sub>
+          <br /><sub>🚧 CNN + Transformer + PPO combo</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/REPO-FIVE">
