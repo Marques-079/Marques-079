@@ -60,12 +60,12 @@
           <br /><sub>🚧 CNN + Transformer + PPO combo</sub>
         </td>
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/REPO-FIVE">
-            <img src="https://raw.githubusercontent.com/Marques-079/REPO-FIVE/branch/path/to/thumbnail.png"
-                 alt="Coming Soon..." style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
+          <a href="https://github.com/Marques-079/Marcuss-toolbox">
+            <img src="https://github.com/Marques-079/Marques-079/blob/af8460a853f24e5377a7d18f4ee8d74ae7487e1e/toolbox.jpeg"
+                 alt="BP code that I found" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/REPO-FIVE"><strong>Coming Soon...</strong></a>
+          <a href="https://github.com/Marques-079/Marcuss-toolbox"><strong>Boiler plate code for my projects</strong></a>
           <br /><sub>Reserved for something special</sub>
         </td>
         <td align="center" width="33%">
@@ -92,7 +92,7 @@
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/2025-algothon">
             <img src="https://github.com/Marques-079/Marques-079/blob/e53b16d8d3f22b5deb7c4e90f704597a41f7edcf/963df710823a4759331d95545f2977d9.jpg"
-                 alt="Coming Soon..." style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
+                 alt="Algothon pluh" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
           <a href="https://github.com/Marques-079/2025-algothon"><strong>Algothon 2025</strong></a>
