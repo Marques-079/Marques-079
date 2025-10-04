@@ -65,8 +65,8 @@
                  alt="BP code that I found" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/Marcuss-toolbox"><strong>Boiler plate code for my projects</strong></a>
-          <br /><sub>Reserved for something special</sub>
+          <a href="https://github.com/Marques-079/Marcuss-toolbox"><strong>Boiler plate for projects</strong></a>
+          <br /><sub>mmmm yummy 😋</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/dynamictransformerV2">
@@ -75,7 +75,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/dynamictransformerV2"><strong>Dynamic Transformer V2</strong></a>
-          <br /><sub>A transformer for time-series stock prediction</sub>
+          <br /><sub>Transformer for TS stock prediction</sub>
         </td>
       </tr>
       <!-- ROW 2 -->
