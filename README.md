@@ -66,7 +66,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/Marcuss-toolbox"><strong>Boiler plate for projects</strong></a>
-          <br /><sub>mmmm yummy 😋</sub>
+          <br /><sub>Snippets of useful code</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/dynamictransformerV2">
