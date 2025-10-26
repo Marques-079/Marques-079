@@ -60,13 +60,13 @@
           <br /><sub>🚧 CNN + Transformer + PPO combo</sub>
         </td>
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/Marcuss-toolbox">
-            <img src="https://github.com/Marques-079/Marques-079/blob/af8460a853f24e5377a7d18f4ee8d74ae7487e1e/toolbox.jpeg"
+          <a href="https://github.com/Marques-079/talk-to-your-textbook">
+            <img src="https://github.com/Marques-079/Marques-079/blob/b88ed58f346faeb322e1d6f93bb6d9dc9efe7fd8/cartoon-book-textbook-illustration-talking-47816330.webp" 
                  alt="BP code that I found" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/Marcuss-toolbox"><strong>Boiler plate for projects</strong></a>
-          <br /><sub>Snippets of useful code</sub>
+          <a href="https://github.com/Marques-079/talk-to-your-textbook"><strong>Talk to your textbook</strong></a>
+          <br /><sub>NotebookLM remake lol</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/dynamictransformerV2">
