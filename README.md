@@ -66,7 +66,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/talk-to-your-textbook"><strong>Talk to your textbook</strong></a>
-          <br /><sub>NotebookLM remake lol</sub>
+          <br /><sub>NotebookLM remake</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/dynamictransformerV2">
