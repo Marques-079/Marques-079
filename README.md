@@ -58,7 +58,7 @@
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/talk-to-your-textbook">
-            <img src="https://github.com/Marques-079/Marques-079/blob/b88ed58f346faeb322e1d6f93bb6d9dc9efe7fd8/cartoon-book-textbook-illustration-talking-47816330.webp" 
+            <img src="https://github.com/Marques-079/Marques-079/blob/9e62de638f9936ab52e2159cfe037f10a46d71e7/sybaullm.png" 
                  alt="BP code that I found" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
