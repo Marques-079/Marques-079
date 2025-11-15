@@ -48,13 +48,13 @@
       <!-- ROW 1 -->
       <tr>
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers">
-            <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%20-githubmmain1.png"
-                 alt="AI plays Subway Surfers" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
+          <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
+            <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-0.png"
+                 alt="Advent of Code 2024 – No imports" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>AI plays Subway Surfers</strong></a>
-          <br /><sub>🚧 CNN + Transformer </sub>
+          <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports"><strong>Advent of Code 2024</strong></a>
+          <br /><sub>No-import solutions to AoC puzzles</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/talk-to-your-textbook">
@@ -96,13 +96,13 @@
           <br /><sub>More graphs than I have braincells</sub>
         </td>
         <td align="center" width="33%">
-          <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports">
-            <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%202025-05-0.png"
-                 alt="Advent of Code 2024 – No imports" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
+          <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers">
+            <img src="https://github.com/Marques-079/Ai-plays-SubwaySurfers/raw/ce738084cf4d34a9f7500e18d35e8db240206eb1/Images/Screenshot%20-githubmmain1.png"
+                 alt="AI plays Subway Surfers" style="display:block;margin:0 auto;width:200px;height:200px;object-fit:contain;" />
           </a>
           <br />
-          <a href="https://github.com/Marques-079/Advent-of-Code-2024---No-imports"><strong>Advent of Code 2024</strong></a>
-          <br /><sub>No-import solutions to AoC puzzles</sub>
+          <a href="https://github.com/Marques-079/Ai-plays-SubwaySurfers"><strong>AI plays Subway Surfers</strong></a>
+          <br /><sub>🚧 CNN + Transformer </sub>
         </td>
       </tr>
     </tbody>
