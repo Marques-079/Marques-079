@@ -54,7 +54,7 @@
           </a>
           <br />
           <a href="https://github.com/Marques-079/MLA-Transformer/tree/main"><strong>MLA vs MHA transformers</strong></a>
-          <br /><sub>Pls sponsor me Lambda Cloud 🤲</sub>
+          <br /><sub>Pls sponsor me Cloud 🤲</sub>
         </td>
         <td align="center" width="33%">
           <a href="https://github.com/Marques-079/talk-to-your-textbook">
